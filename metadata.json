@@ -1,0 +1,6 @@
+{
+  "name": "PDFLab",
+  "description": "100% Offline PDF Productivity Suite (DeskMate Tools) — Merge, Split, Compress, Images to PDF, PDF to Images, Rotate, Remove, and Extract PDF pages in Bengali and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

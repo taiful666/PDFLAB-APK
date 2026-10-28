@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PDFLab</string>
+    <string name="brand_title">DeskMate Tools</string>
+    <string name="brand_subtitle_bn">১০০% অফলাইন • ব্যক্তিগত ও নিরাপদ প্রোডাক্টিভিটি স্যুট</string>
+    <string name="brand_subtitle_en">100% Offline • Private &amp; Secure Productivity Suite</string>
+    <string name="offline_badge_bn">অফলাইন মোড</string>
+    <string name="offline_badge_en">Offline Mode</string>
+</resources>
